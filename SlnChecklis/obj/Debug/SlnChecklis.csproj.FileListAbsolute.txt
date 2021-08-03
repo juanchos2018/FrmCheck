@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\bin\Debug\SlnChecklis.exe.config
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\bin\Debug\SlnChecklis.exe
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\bin\Debug\SlnChecklis.pdb
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.ControlCheck.resources
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.Form1.resources
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.Properties.Resources.resources
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.exe
+C:\Users\usuario\source\repos\SlnChecklis\SlnChecklis\obj\Debug\SlnChecklis.pdb
